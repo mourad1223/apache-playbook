@@ -8,4 +8,4 @@
         src: test.html  # Le chemin du fichier sur votre node manager
         dest: /var/www/html/test.html  # Le chemin de destination sur le serveur cible
         mode: '0644'  # Permet de s'assurer que le fichier est lisible
-a
+
